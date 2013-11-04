@@ -1,0 +1,55 @@
+title:            Michael Fioritto
+tagline:          Connecting content and technology.
+description:      I am intrigued with content and the container.
+#Comment out url when working locally to resolve base urls correctly
+url: http://www.fioritto.us
+
+# Owner/author information
+owner:
+  name:           Michael Fioritto
+  # avatar:         avatar.png
+  bio:            "I am interested in content related technology, photography and cycling."
+  email:          mike@fioritto.us
+  twitter:        fioritto        
+  github:         fioritto       
+  # disqus:         balzac
+  # Plug in your disqus shortname!
+  
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/index.html
+  - title: Github
+    url: https://github.com/fioritto
+    external: true
+  - title: Archived Blog
+    url: http://www.fioritto.us/blog/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink:   /:categories/:title
+permalink: none
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
