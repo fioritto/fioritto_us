@@ -25,7 +25,7 @@ links:
     url: https://github.com/fioritto
     external: true
   - title: Archived Blog
-    url: http://www.fioritto.us/blog/
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago

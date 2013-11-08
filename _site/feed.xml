@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.fioritto.us/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.fioritto.us" />
-<updated>2013-11-03T21:02:09-06:00</updated>
+<updated>2013-11-08T13:57:50-06:00</updated>
 <id>http://www.fioritto.us/</id>
 <author>
   <name>Michael Fioritto</name>
@@ -29,13 +29,13 @@
 &lt;p&gt;Answer &lt;a href=&quot;http://www.fioritto.us/about/index.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;what-hardware-do-you-use&quot;&gt;What hardware do you use?&lt;/h3&gt;
-&lt;p&gt;At work I currently have a Dell laptop that gets docked when I am in the office. Connected to that is a twenty-something-inch monitor. This setup will be replaced soon with an Apple MacBook Air. I have been working with Windows machines for some time so I’m making a list now of potential software to replace some of the tools I use today.&lt;/p&gt;
+&lt;p&gt;At work I currently have a Dell laptop that gets docked when I am in the office. Connected to that is a twenty-something-inch monitor. This setup will be replaced soon with an Apple MacBook Air. I have been working with Windows machines for some time so I&amp;#8217;m making a list now of potential software to replace some of the tools I use today.&lt;/p&gt;
 
 &lt;p&gt;At home I have a Dell tower connected to dual twenty-something-inch monitors. I primarily use this machine for processing and managing photos. I calibrate the monitors often and when the RSI kicks in I have an older Wacom Bamboo device that I can use with a pen. It also comes in handy when doing a lot of retouching in Photoshop.&lt;/p&gt;
 
 &lt;p&gt;Along with hard drive it came with, I installed a 2GB internal drive to store my photo archive. I back that up to an external drive which I should start storing off site somewhere.&lt;/p&gt;
 
-&lt;p&gt;A few months ago I purchased a Samsung Chromebook. I use it at home to develop, surf the web and manage email. I also take it with me when I travel, although checking two laptops is a pain. I’m working more and more in the cloud these days and I liked the price, form factor and capabilities of the Chromebook.&lt;/p&gt;
+&lt;p&gt;A few months ago I purchased a Samsung Chromebook. I use it at home to develop, surf the web and manage email. I also take it with me when I travel, although checking two laptops is a pain. I&amp;#8217;m working more and more in the cloud these days and I liked the price, form factor and capabilities of the Chromebook.&lt;/p&gt;
 
 &lt;p&gt;I have an original Kindle that I use to read. I prefer it over the iPad or laptop.&lt;/p&gt;
 
@@ -43,16 +43,16 @@
 
 &lt;p&gt;I have an iPhone 4 something and I am thinking about moving to the Samsung Galaxy S4 given my Chromebook use and reliance on Google products. I have an unlocked Motorola Droid Pro that I am keeping around because of its GSM capabilities and SIM card.&lt;/p&gt;
 
-&lt;p&gt;I shoot with Leica M cameras and a variety of lenses. I have an M6, M4-2 and 35mm and 50mm lenses. I use the 35mm 85% of the time and I’m trying to use the 50mm more. I also have an old 50mm Russian made lens, a 40mm Voigtlander and an older 35mm screw mount Canon lens. They get limited use depending on my mood. I am currently shooting black and white film (Kodak Tri-X) but I am thinking about switching my workflow to color neg film. It will save me the processing time and it is easier to scan.&lt;/p&gt;
+&lt;p&gt;I shoot with Leica M cameras and a variety of lenses. I have an M6, M4-2 and 35mm and 50mm lenses. I use the 35mm 85% of the time and I&amp;#8217;m trying to use the 50mm more. I also have an old 50mm Russian made lens, a 40mm Voigtlander and an older 35mm screw mount Canon lens. They get limited use depending on my mood. I am currently shooting black and white film (Kodak Tri-X) but I am thinking about switching my workflow to color neg film. It will save me the processing time and it is easier to scan.&lt;/p&gt;
 
-&lt;p&gt;I also have an old Canon Rebel digital that I use off an on. I almost ditched everything to purchase a Fuji X Pro system, but I’m going to hold off for now.&lt;/p&gt;
+&lt;p&gt;I also have an old Canon Rebel digital that I use off an on. I almost ditched everything to purchase a Fuji X Pro system, but I&amp;#8217;m going to hold off for now.&lt;/p&gt;
 
 &lt;h3 id=&quot;what-software&quot;&gt;What software?&lt;/h3&gt;
 &lt;p&gt;Today, I am working with more and more software that is in the cloud. Through the years I have experimented with a lot of software. I would download it, give it a trial and then it would often linger unused, contributing to the eventual cruftiness of my machine. I like the ability to try things out without having to install anything.&lt;/p&gt;
 
 &lt;p&gt;My current favorite software is Evernote. I have it installed on my work laptop and I use the web based version everywhere else. I use it to store my research notes, clip content from the web and keep track of projects. I make use of the Skitch integration to grab screen shots for presentations and product design. &lt;/p&gt;
 
-&lt;p&gt;I am using Google docs more and more, both at work and personally. Docs, sheets and presentations. Microsoft Office still comes into play, but I’m using it less and less.&lt;/p&gt;
+&lt;p&gt;I am using Google docs more and more, both at work and personally. Docs, sheets and presentations. Microsoft Office still comes into play, but I&amp;#8217;m using it less and less.&lt;/p&gt;
 
 &lt;p&gt;For web development on the Windows machines, I use Notepad++ and ftp (I am not a developer, so I do some lightweight work on our developer portal and this site). On the Chromebook I am using Cloud9, git, github and secure shell for web development. I like the combination of having an editor and shell access in the same cloud based application. &lt;/p&gt;
 
@@ -62,22 +62,22 @@
 
 &lt;p&gt;I also use Pocket to TiVo content I want to read later. I works well on my Chromebook and if there is something I want to keep or an item that is part of a research project, I then use the Evernote Chrome extension to clip it into a notebook.&lt;/p&gt;
 
-&lt;p&gt;At work I live in Outlook. We use it for email and calendaring. I have been using it for years and am used to it my now, althogh I don’t like flipping between it and Gmail. For personal use I use Gmail and still have a Yahoo! account I check about once a week.&lt;/p&gt;
+&lt;p&gt;At work I live in Outlook. We use it for email and calendaring. I have been using it for years and am used to it my now, althogh I don&amp;#8217;t like flipping between it and Gmail. For personal use I use Gmail and still have a Yahoo! account I check about once a week.&lt;/p&gt;
 
 &lt;p&gt;I use Google Hangouts, Skype, Webex and Lync (corporate im tool) for video conferencing and instant messaging.&lt;/p&gt;
 
-&lt;p&gt;For photography I am in the process of fine tuning my workflow. I’m moving to Lightroom and will begin experimenting with that to process my images as well. To date I have used Photoshop exclusively with a folder system for keeping track of original scans, derivative files and final work.&lt;/p&gt;
+&lt;p&gt;For photography I am in the process of fine tuning my workflow. I&amp;#8217;m moving to Lightroom and will begin experimenting with that to process my images as well. To date I have used Photoshop exclusively with a folder system for keeping track of original scans, derivative files and final work.&lt;/p&gt;
 
 &lt;p&gt;By now you have probably figured out that I live in Google Chrome. I have not used Firefox in over a year and I have to use Microsoft Explorer at work for a couple of internal applications.&lt;/p&gt;
 
-&lt;p&gt;Overall, moving much of my work to the cloud has been a good experience. With Jekyll, I like the fact that I could use Text offline in my Chromebook and then upload files when I’m connected. Cloud9 has been working pretty well and I save often out of years of experience with losing work.&lt;/p&gt;
+&lt;p&gt;Overall, moving much of my work to the cloud has been a good experience. With Jekyll, I like the fact that I could use Text offline in my Chromebook and then upload files when I&amp;#8217;m connected. Cloud9 has been working pretty well and I save often out of years of experience with losing work.&lt;/p&gt;
 
 &lt;p&gt;Finally I use LastPass to keep track of all of my logins.&lt;/p&gt;
 
 &lt;h3 id=&quot;what-would-be-your-dream-setup&quot;&gt;What would be your dream setup?&lt;/h3&gt;
 &lt;p&gt;I am not much of a hardware geek, but I am looking forward to getting the MacBook Air. It is light, powerful and most interesting to me, I can drop down into the command line to manage things if I want.&lt;/p&gt;
 
-&lt;p&gt;On the photography front I’m holding out for a Leica Monochrom body. I primarly shoot in black and white and I have been intrigued with this since it came out. I have the lenses, now I just need the body to make the move to an all digital workflow.&lt;/p&gt;
+&lt;p&gt;On the photography front I&amp;#8217;m holding out for a Leica Monochrom body. I primarly shoot in black and white and I have been intrigued with this since it came out. I have the lenses, now I just need the body to make the move to an all digital workflow.&lt;/p&gt;
 
 &lt;p&gt;Otherwise I enjoy seeing and trying out what developers are creating. &lt;/p&gt;
 
