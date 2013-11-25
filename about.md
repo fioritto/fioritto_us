@@ -1,6 +1,8 @@
 ---
-layout: post-no-feature
+layout: post
 permalink: /about/index.html
+image:
+  feature: triple-exposure-2
 title: About me
 description: The short version. Director, Content Delivery and OnConnect product manager at TMS. Media tinkerer, photographer, cyclist, husband, father, grandfather.
 tags: [Michael Fioritto, product management, photo history, cycling]
@@ -9,6 +11,8 @@ tags: [Michael Fioritto, product management, photo history, cycling]
 
 ### My Background
 I am a military brat and lived in various locations around the world depending on the current political climate. Vietnam and the Cold War are baked into my psyche. I bought a camera while living in Germany and learned how to develop film and make prints. At some point I decided I wanted to be a photographer so I attended Arizona State University and ended up working at the Arizona Republic for a time as a photographer.
+
+![Self Portrait]({{ site.url }}/images/mike-fioritto-portrait.jpg)
 
 Most photographers are gear heads and I bought a [Tandy Model 200](http://oldcomputers.net/trs200.html) (I am sure I desperately tried to justify this purchase to my wife in some way). It came with a 300 baud modem and a Compuserve account. From there I discovered the web and the rest is, as they say, history.
 
