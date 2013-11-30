@@ -4,7 +4,7 @@ permalink: /about/index.html
 image:
   feature: triple-exposure-2
 title: About me
-description: The short version. Director, Content Delivery and OnConnect product manager at TMS. Media tinkerer, photographer, cyclist, husband, father, grandfather.
+description: The short version. Director, Content Delivery and OnConnect product manager at TMS. Media tinkerer, generalist with a passion for learning, photographer, cyclist, husband, father, grandfather.
 tags: [Michael Fioritto, product management, photo history, cycling]
 ---
 
@@ -52,7 +52,7 @@ I am also very interested in photo history. [Bill Jay](http://www.fioritto.us/bl
 I ride as much as I can with the FOGOBS group in Hyde Park. Depending on who you ask, it stands for either Fast or Fat Old Guys On Bikes. I commute to work via bike, but I'm not a dedicated commuter. If its wet outside I'm on the bus.
 
 ### Personal
-I married to Lisa, have three children, one grandchild and another on the way. I love being "papa". We live in Hyde Park.
+I am married to Lisa, have three children, two grandchildren and another on the way. I love being "papa". We live in Hyde Park.
 
 ### Resume
 Everything above in a bulleted list.
