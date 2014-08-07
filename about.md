@@ -4,7 +4,7 @@ permalink: /about/index.html
 image:
   feature: triple-exposure-2
 title: About me
-description: The short version. Director, Content Delivery and OnConnect product manager at TMS. Media tinkerer, generalist with a passion for learning, photographer, cyclist, husband, father, grandfather.
+description: The short version. Director, product management at Gracenote. Media tinkerer, generalist with a passion for learning, photographer, cyclist, husband, father, grandfather.
 tags: [Michael Fioritto, product management, photo history, cycling]
 ---
 
@@ -28,7 +28,7 @@ Next up was Highbeam Research, founded by Patrick Spain. I worked on content acq
 I was lured back to TMS to help them design and implement a new content syndication platform for the News and Features division. We replaced the old system with a new platform that would enable new business models. Newspapers were not ready for anything new and frankly I was getting bored.
 
 ### Today
-I am the Director for Content Delivery at [TMS](http://www.tribunemediaservices.com). That means a lot of things. Mostly I am the product manager for [OnConnect](http://developer.tmsapi.com), our api platform. I like working with developers and learning from them. They are creative, outspoken and help me improve the product every day.
+I am a product manager at [Gracenote](http://www.gracenote.com). That means a lot of things. Mostly I am responsible for [OnConnect](http://developer.tmsapi.com), our api platform. I am also working on sports and a few other content-related projects. I like working with developers and learning from them. They are creative, outspoken and help me improve the product every day.
 
 The world of entertainment and television is rapidly changing and I love thinking strategically about the impact this is having on our business. The way we collect, store and deliver content will change. 
 
@@ -46,13 +46,15 @@ Today, this site is built using [Jekyll](http://jekyllrb.com/). I hope the tinke
 ### Photography
 After a hiatus of 10 years, I started shooting again. Today I shoot a mix of film and digital. I am still trying to figure out how to manage all this from a workflow perspective. More to come in another post.
 
+I created my first Blurb book, "Rodeo: Paris, Texas" and you can find it [here](http://www.blurb.com/b/5397924-rodeo-paris-texas).
+
 I am also very interested in photo history. [Bill Jay](http://www.fioritto.us/blog/bill-jay-1940-2009/1497/) was an early influence. 
 
 ### Cycling
 I ride as much as I can with the FOGOBS group in Hyde Park. Depending on who you ask, it stands for either Fast or Fat Old Guys On Bikes. I commute to work via bike, but I'm not a dedicated commuter. If its wet outside I'm on the bus.
 
 ### Personal
-I am married to Lisa, have three children, two grandchildren and another on the way. I love being "papa". We live in Hyde Park.
+I am married to Lisa, have three children and three grand children, all boys. I love being "papa". We live in Hyde Park.
 
 ### Resume
 Everything above in a bulleted list.
